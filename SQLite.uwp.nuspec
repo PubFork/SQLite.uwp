@@ -7,7 +7,7 @@
     <authors>SQLite Development Team</authors>
     <owners>ZhuiMeng</owners>
     <licenseUrl>https://marketplace.visualstudio.com/items/SQLiteDevelopmentTeam.SQLiteforUniversalWindowsPlatform/license</licenseUrl>
-    <projectUrl>http://www.sqlite.org/index.html</projectUrl>
+    <projectUrl>https://github.com/MengYunfan/SQLite.uwp</projectUrl>
     <iconUrl>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/64px-Sqlite-square-icon.svg.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>This is nuget package version of SQLite for Universal Windows Platform, with this package you don't need to install SQLite for Universal Windows Platform any more, and it was very useful when your app need to build on VSTS.</description>
