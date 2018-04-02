@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SQLite.uwp</id>
-    <version>3.22.0</version>
+    <version>3.23.0</version>
     <title>SQLite.uwp</title>
     <authors>SQLite Development Team</authors>
     <owners>ZhuiMeng</owners>
